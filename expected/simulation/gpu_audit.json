@@ -1,0 +1,78 @@
+{
+  "device": "mps",
+  "runtime_s": 5.8123475829997915,
+  "audit": [
+    {
+      "pattern": "independent",
+      "prevalence": 0.005,
+      "halo": false,
+      "max_abs_est_error": 8.521204367117896e-10
+    },
+    {
+      "pattern": "independent",
+      "prevalence": 0.005,
+      "halo": true,
+      "max_abs_est_error": 1.1696410732314755e-09
+    },
+    {
+      "pattern": "independent",
+      "prevalence": 0.05,
+      "halo": false,
+      "max_abs_est_error": 6.456359502582387e-09
+    },
+    {
+      "pattern": "independent",
+      "prevalence": 0.05,
+      "halo": true,
+      "max_abs_est_error": 9.663298702888845e-09
+    },
+    {
+      "pattern": "independent",
+      "prevalence": 0.2,
+      "halo": false,
+      "max_abs_est_error": 2.0022832336596963e-08
+    },
+    {
+      "pattern": "independent",
+      "prevalence": 0.2,
+      "halo": true,
+      "max_abs_est_error": 2.3889144634692272e-08
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.005,
+      "halo": false,
+      "max_abs_est_error": 6.336999111219987e-10
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.005,
+      "halo": true,
+      "max_abs_est_error": 8.959261665886231e-10
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.05,
+      "halo": false,
+      "max_abs_est_error": 6.6729722997260765e-09
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.05,
+      "halo": true,
+      "max_abs_est_error": 6.104240390936155e-09
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.2,
+      "halo": false,
+      "max_abs_est_error": 1.1892999890461553e-08
+    },
+    {
+      "pattern": "clustered",
+      "prevalence": 0.2,
+      "halo": true,
+      "max_abs_est_error": 1.2827133466508656e-08
+    }
+  ]
+}

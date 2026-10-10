@@ -1,0 +1,168 @@
+[
+  {
+    "sample": "CRC02",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC02-features.zip",
+    "file": "data/raw/CRC02-features.zip",
+    "bytes": 61427425,
+    "sha256": "079b746f6c76a28518802d544ba1e6bb95c36839f7e6d2423ee05c1324d88476"
+  },
+  {
+    "sample": "CRC03",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC03-features.zip",
+    "file": "data/raw/CRC03-features.zip",
+    "bytes": 53074227,
+    "sha256": "fa3b52fcd2e69824fb591fa6db1efd8d4dd25f6dd8b6a2d0dabf4265bb018cc0"
+  },
+  {
+    "sample": "CRC04",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC04-features.zip",
+    "file": "data/raw/CRC04-features.zip",
+    "bytes": 79364254,
+    "sha256": "fcde4fa2f0bf3dbf76f0c658d98716e87b04333d359759b10c40376be60c531a"
+  },
+  {
+    "sample": "CRC05",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC05-features.zip",
+    "file": "data/raw/CRC05-features.zip",
+    "bytes": 60590263,
+    "sha256": "86d882d456f78ab495703beda6d8a2128c131a1d9721e6eea8640dcae5679e47"
+  },
+  {
+    "sample": "CRC06",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC06-features.zip",
+    "file": "data/raw/CRC06-features.zip",
+    "bytes": 41918319,
+    "sha256": "f6a61674d1dfd72354265b1b50b75514983e9c49f0e0de7de9fd2656eb8f0eca"
+  },
+  {
+    "sample": "CRC07",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC07-features.zip",
+    "file": "data/raw/CRC07-features.zip",
+    "bytes": 53543469,
+    "sha256": "03a9c87a2aa0acb363ba462e3838faf6bc5368237042fff1dc59b40e32f2d988"
+  },
+  {
+    "sample": "CRC08",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC08-features.zip",
+    "file": "data/raw/CRC08-features.zip",
+    "bytes": 71150281,
+    "sha256": "85a7d2705a7b22818a3d5740a0f8d4188b6ec4723b07699e2c58dd975318735c"
+  },
+  {
+    "sample": "CRC09",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC09-features.zip",
+    "file": "data/raw/CRC09-features.zip",
+    "bytes": 23298916,
+    "sha256": "fbf71b4b2f942ff6da32bdf6665e7a6b88228e101df95ec48084b964ef7f96c6"
+  },
+  {
+    "sample": "CRC10",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC10-features.zip",
+    "file": "data/raw/CRC10-features.zip",
+    "bytes": 43221897,
+    "sha256": "52b33d771df2fd9fc4a95394d81392ddd37eb7e6a69fd9bb7235f2e7ca193fbe"
+  },
+  {
+    "sample": "CRC11",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC11-features.zip",
+    "file": "data/raw/CRC11-features.zip",
+    "bytes": 36192331,
+    "sha256": "0753d6d986b8b62fb9cbb9b223dcc8526c9e925605fb016f5ca3420e5f18a6a0"
+  },
+  {
+    "sample": "CRC12",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC12-features.zip",
+    "file": "data/raw/CRC12-features.zip",
+    "bytes": 72678019,
+    "sha256": "4162b267367d20f2f08349f23c717a00b7a747a8bf5eaf8edd6cf91203f7b6b3"
+  },
+  {
+    "sample": "CRC13",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC13-features.zip",
+    "file": "data/raw/CRC13-features.zip",
+    "bytes": 25430197,
+    "sha256": "0bc91a745704ec5d27b6088f8206ce649872a8896509970bf1ace664f29b7a3b"
+  },
+  {
+    "sample": "CRC14",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC14-features.zip",
+    "file": "data/raw/CRC14-features.zip",
+    "bytes": 34359469,
+    "sha256": "6d4144294d39b684ebeed64839fb93c0531451c977dcd5d079a96f537c99e536"
+  },
+  {
+    "sample": "CRC15",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC15-features.zip",
+    "file": "data/raw/CRC15-features.zip",
+    "bytes": 59688811,
+    "sha256": "7a8985922b52b06c22a141f0c0b7659e9bfdd13e57554bb17a9b4ec3af00aee1"
+  },
+  {
+    "sample": "CRC16",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC16-features.zip",
+    "file": "data/raw/CRC16-features.zip",
+    "bytes": 23605774,
+    "sha256": "e30b6180bb046a86c44ac9ce6e7ca877fd4ea79865c3edc592d3af98b776864f"
+  },
+  {
+    "sample": "CRC17",
+    "url": "https://lin-2021-crc-atlas.s3.amazonaws.com/data/CRC17-features.zip",
+    "file": "data/raw/CRC17-features.zip",
+    "bytes": 82886579,
+    "sha256": "d6c44b8c424d4e94f5958cbc0b15f0a985ced0a021c568c1d971cd50c8a5ea5f"
+  },
+  {
+    "file": "data/raw/spatial_8months-disease-replicate_2.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_8months-disease-replicate_2.csv?download=1",
+    "sha256": "e14073d3c83a0725fbfcf50bc80460fdcf5c3ee92fb014b13066e2384a3f1ab2",
+    "bytes": 553727
+  },
+  {
+    "file": "data/raw/spatial_13months-disease-replicate_2.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_13months-disease-replicate_2.csv?download=1",
+    "sha256": "98a7a7b0623143d008efdf7f2efd3c2d9ddb3f6647fecde66a04a6ea4f289bf3",
+    "bytes": 653467
+  },
+  {
+    "file": "data/raw/spatial_13months-disease-replicate_1.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_13months-disease-replicate_1.csv?download=1",
+    "sha256": "f10fd26c77fef2879296172d1efe38f98083319bdaece41e53db6d4697fb56dc",
+    "bytes": 704379
+  },
+  {
+    "file": "data/raw/spatial_8months-control-replicate_1.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_8months-control-replicate_1.csv?download=1",
+    "sha256": "c4387c1b1f5bcd78ac48e4d68ee39bc7091674d6042351ab6970a55aaf42d05d",
+    "bytes": 573123
+  },
+  {
+    "file": "data/raw/spatial_8months-control-replicate_2.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_8months-control-replicate_2.csv?download=1",
+    "sha256": "44d687dbaa82bb642daae0f7601ac7952a54d0b8a1671ef62e588ba4d1818fcf",
+    "bytes": 660019
+  },
+  {
+    "file": "data/raw/metadata.csv",
+    "url": "https://zenodo.org/records/7683099/files/metadata.csv?download=1",
+    "sha256": "4b23cd98863a12f9ea8e7ce456fff97f2de26e9d960a7d27af6fe0fb715136e7",
+    "bytes": 17919557
+  },
+  {
+    "file": "data/raw/spatial_8months-disease-replicate_1.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_8months-disease-replicate_1.csv?download=1",
+    "sha256": "c11527ca2ee4e847313d51d15b1daee1d5d5b991c45c2a841d9b9c3e794b35be",
+    "bytes": 556899
+  },
+  {
+    "file": "data/raw/spatial_13months-control-replicate_1.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_13months-control-replicate_1.csv?download=1",
+    "sha256": "6b562718f4205072a44966ec1960ff4ac8ab67e65c6b87dc2e01863186d2225f",
+    "bytes": 543872
+  },
+  {
+    "file": "data/raw/spatial_13months-control-replicate_2.csv",
+    "url": "https://zenodo.org/records/7683099/files/spatial_13months-control-replicate_2.csv?download=1",
+    "sha256": "00099d154eb6a053d0ed4b74450d95d21089a40d970c7f760d31aa97ebff2a19",
+    "bytes": 634109
+  }
+]

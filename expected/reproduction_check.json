@@ -1,0 +1,23 @@
+{
+  "checks": [
+    {
+      "file": "summary/validation.csv",
+      "rows": 77760,
+      "absolute_and_relative_tolerance": 1e-10,
+      "status": "passed"
+    },
+    {
+      "file": "support/exact_variances.csv",
+      "rows": 120,
+      "absolute_and_relative_tolerance": 1e-10,
+      "status": "passed"
+    },
+    {
+      "file": "simulation/simulation_results.csv",
+      "rows": 36,
+      "absolute_and_relative_tolerance": 5e-05,
+      "status": "passed"
+    }
+  ],
+  "elapsed_s": 560.9756772500004
+}

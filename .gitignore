@@ -1,0 +1,7 @@
+__pycache__/
+.venv/
+.DS_Store
+data/raw/
+data/processed/*_cells.npz
+results/
+*.part

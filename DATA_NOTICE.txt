@@ -1,0 +1,32 @@
+Neighborhood Sampling Benchmark, version 1.0.0
+
+This benchmark combines derived core-level counts and geometric support groups
+from two public experimental resources. The benchmark tables were generated
+by this study. Preserve the source citations below when using the tables.
+The MIT LICENSE applies to the research software. Source records retain their
+original attribution and licensing terms.
+
+Colorectal CyCIF:
+Lin et al. Multiplexed 3D atlas of state transitions and immune interaction in
+colorectal cancer. Cell 186, 363-381.e19 (2023).
+https://doi.org/10.1016/j.cell.2022.12.028
+Primary release: https://github.com/labsyspharm/CRC_atlas_2022
+Archived repository: https://doi.org/10.5281/zenodo.7554924
+Cell tables: https://lin-2021-crc-atlas.s3.amazonaws.com/data/
+The source repository distributes its software under the MIT license.
+
+STARmap PLUS:
+Zeng et al. Integrative in situ mapping of single-cell transcriptional states
+and tissue histopathology in a mouse model of Alzheimer's disease.
+Nature Neuroscience 26, 430-446 (2023).
+https://doi.org/10.1038/s41593-022-01251-x
+Data release: https://doi.org/10.5281/zenodo.7683099
+The STARmap PLUS release is licensed under CC BY 4.0:
+https://creativecommons.org/licenses/by/4.0/
+
+Changes in this benchmark: coordinates are scaled by median nearest-neighbor
+spacing; cells are partitioned into fixed cores; three ordered neighborhood
+outcomes and three abundance outcomes are aggregated. CRC marker-high gates
+are fixed from two development specimens. STARmap labels are retained from
+the source release. These are derived representations, not new experimental
+observations. Source checksums and download URLs are in metadata/input_manifest.json.

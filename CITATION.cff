@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Cite this software and its source datasets when using the benchmark."
+title: "Preserving neighborhoods in tissue sampling"
+type: software
+version: 1.0.0
+date-released: 2026-10-10
+authors:
+  - name: "Anonymous study author"
+license: MIT
+keywords:
+  - spatial omics
+  - tissue sampling
+  - neighborhood inference

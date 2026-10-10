@@ -1,0 +1,66 @@
+{
+  "frozen_utc": "2026-10-10",
+  "title": "Calibrated inference for targeted tissue sampling",
+  "development_samples": {
+    "CRC": [
+      "CRC02",
+      "CRC09"
+    ],
+    "STARmap": [
+      "8months-control-replicate_1",
+      "13months-control-replicate_1"
+    ]
+  },
+  "validation": "All remaining 14 CRC and 6 STARmap samples; no outcome-based exclusions",
+  "primary": {
+    "tile_width_in_median_nnd": 12,
+    "radius_in_median_nnd": 3,
+    "expected_area_budget": 0.4,
+    "estimator": "halo_targeted_effective",
+    "comparison": [
+      "crop_targeted_effective",
+      "halo_targeted_unweighted",
+      "halo_uniform_effective"
+    ]
+  },
+  "sensitivity": {
+    "L": [
+      12,
+      24,
+      48
+    ],
+    "radius": [
+      1.5,
+      3,
+      6
+    ],
+    "budget": [
+      0.2,
+      0.4,
+      0.6,
+      0.8
+    ]
+  },
+  "monte_carlo": {
+    "blocks": 5,
+    "replicates_per_block": 2000,
+    "seed": "SHA256(sample,L,phase,block) first 8 bytes little endian"
+  },
+  "primary_outcomes": "Three neighborhood prevalence endpoints per specimen; cell abundance is a negative control for truncation",
+  "metrics": [
+    "bias",
+    "RMSE",
+    "95% interval coverage",
+    "interval width",
+    "empirical SD vs estimated SE"
+  ],
+  "statistics": "equal specimen weighting; no treatment-effect inference or independent-cell pseudoreplication",
+  "finite_sample_bound": "Bernstein variance upper bound plus Bernstein total bound; separate from approximate t intervals",
+  "novelty": "Integrated acquisition and inference workflow; HT weighting, guard regions and model assistance are established components and will be credited",
+  "code_sha256": "5a5ed7164ea6f7d7fbb3c7346bf56c576f4a72021de26b1bb55176d1dd3cf609",
+  "implementation_correction": {
+    "date": "2026-10-10T23:15:49.449273+00:00",
+    "reason": "Exclude anchor self-matches when marker-high labels overlap; same rule for all cohorts and simulations. All primary and sensitivity runs repeated. No change to design, estimator or evaluation criteria."
+  },
+  "mechanistic_baseline": "Complete-support inclusion estimator with exact Bernoulli product variance, added before interpreting aggregate validation results."
+}
